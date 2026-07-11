@@ -1,0 +1,16 @@
+Put photos of the artwork here, plus one profile photo.
+
+Expected file names (used by the page by default):
+- profile.jpg          → the About section photo
+- piece-1.jpg to piece-6.jpg  → the gallery pieces
+
+You can use different names — just make sure the name in index.html
+(inside the ARTWORKS list, and the profile photo line) matches exactly,
+including capital letters.
+
+Tips:
+- JPG or PNG both work.
+- Before uploading, resize/compress large photos so the site loads fast.
+  A free tool for this: https://squoosh.app (drag the photo in, export,
+  upload the result instead of the original).
+- Roughly 1500px on the longest side is plenty for a portfolio image.

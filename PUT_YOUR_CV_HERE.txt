@@ -1,0 +1,7 @@
+Put your CV/resume PDF here, named exactly:
+
+cv.pdf
+
+The site links to "cv/cv.pdf" from two buttons (top of the page and
+the CV section). If you want a different file name, just also update
+those two "href" links in index.html to match.
