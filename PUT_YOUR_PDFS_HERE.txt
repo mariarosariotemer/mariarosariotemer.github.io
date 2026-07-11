@@ -1,0 +1,12 @@
+Put your PDF reports and analyses here — market research, case studies,
+essays, anything you want to show as a document.
+
+The homepage links to these exact file names by default:
+- postwar-italian-auction-trends.pdf
+- provenance-case-study.pdf
+- nft-market-overview.pdf
+- estimate-accuracy-comparison.pdf
+
+You don't have to use these topics — replace them with your real ones.
+Just make sure the file name you upload here matches exactly the "file:"
+value inside the PAPERS list in index.html (see README.md).
